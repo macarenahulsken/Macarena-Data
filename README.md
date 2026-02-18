@@ -13,11 +13,11 @@ Transformo datos en decisiones de negocio mediante análisis, experimentación y
 
 ### Proyectos Destacados
 
-📊 [Análisis de ROI Financiero — AdventureWorks](https://github.com/macarenahulsken/financial-roi-adventureworks)
+🌎 [Movilidad Urbana y Productividad Económica — LATAM](https://github.com/macarenahulsken/urban-mobility-productivity-latam)
 
 📈 [Embudo y Retención — MercadoLibre](https://github.com/macarenahulsken/mercadolibre-funnel-retention)
 
-🌎 [Movilidad Urbana y Productividad Económica — LATAM](https://github.com/macarenahulsken/urban-mobility-productivity-latam)
+📊 [Análisis de ROI Financiero — AdventureWorks](https://github.com/macarenahulsken/financial-roi-adventureworks)
 
 ### Contacto
 LinkedIn: www.linkedin.com/in/macarena-hulsken  
