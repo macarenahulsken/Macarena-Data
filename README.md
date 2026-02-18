@@ -1,24 +1,25 @@
 # Macarena-Data
-## Hi, I'm Macarena 👋
-Data Analyst | SQL | Python | Business Insights
 
-I turn raw data into business decisions through analysis, experimentation and visualization.
+## Hola, soy Macarena 👋
+Analista de Datos | SQL | Python | Insights de Negocio
 
-### Skills
-- SQL (CTEs, Window Functions, Aggregations)
-- Python (Pandas, Numpy, Matplotlib)
-- Funnel & Cohort Analysis
-- Business Metrics (ROI, Retention, Conversion)
+Transformo datos en decisiones de negocio mediante análisis, experimentación y visualización.
 
-### Featured Projects
+### Habilidades
+- SQL (CTEs, Window Functions, agregaciones)
+- Python (Pandas, NumPy, Matplotlib)
+- Análisis de embudos y cohortes
+- Métricas de negocio (ROI, retención, conversión)
 
-📊 [Financial ROI Analysis — AdventureWorks](https://github.com/macarenahulsken/financial-roi-adventureworks)
+### Proyectos Destacados
 
-📈 [Funnel & Retention — MercadoLibre](https://github.com/macarenahulsken/mercadolibre-funnel-retention)
+📊 [Análisis de ROI Financiero — AdventureWorks](https://github.com/macarenahulsken/financial-roi-adventureworks)
 
-🌎 [Urban Mobility & Economic Productivity — LATAM](https://github.com/macarenahulsken/urban-mobility-productivity-latam)
+📈 [Embudo y Retención — MercadoLibre](https://github.com/macarenahulsken/mercadolibre-funnel-retention)
 
-### Contact
-LinkedIn: www.linkedin.com/in/macarena-hulsken
-Email: macarenahulsken@gmail.com
+🌎 [Movilidad Urbana y Productividad Económica — LATAM](https://github.com/macarenahulsken/urban-mobility-productivity-latam)
+
+### Contacto
+LinkedIn: www.linkedin.com/in/macarena-hulsken  
+Email: macarenahulsken@gmail.com  
 Tel: (+49) 01716537218
