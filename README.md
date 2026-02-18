@@ -11,10 +11,14 @@ I turn raw data into business decisions through analysis, experimentation and vi
 - Business Metrics (ROI, Retention, Conversion)
 
 ### Featured Projects
-📊 Financial ROI Analysis — AdventureWorks  
-📈 Funnel & Retention — MercadoLibre  
-🌎 Urban Mobility & Economic Productivity — LATAM Cities
+
+📊 [Financial ROI Analysis — AdventureWorks](https://github.com/macarenahulsken/financial-roi-adventureworks)
+
+📈 [Funnel & Retention — MercadoLibre](https://github.com/macarenahulsken/mercadolibre-funnel-retention)
+
+🌎 [Urban Mobility & Economic Productivity — LATAM](https://github.com/macarenahulsken/urban-mobility-productivity-latam)
 
 ### Contact
-LinkedIn: (agregar)
-Email: (agregar)
+LinkedIn: www.linkedin.com/in/macarena-hulsken
+Email: macarenahulsken@gmail.com
+Tel: (+49) 01716537218
