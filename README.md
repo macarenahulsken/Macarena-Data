@@ -14,10 +14,13 @@ Tools: Power BI, Google Sheets, Jupyter Notebooks, Git/GitHub.
 ## 🚀 Featured Projects
 📈 [Urban Mobility & Economic Productivity](https://github.com/macarenahulsken/urban-mobility-productivity-latam)
 Analyzed 1M+ records to correlate GDP per capita with urban congestion across 15 LATAM cities, identifying 3 high-priority markets for infrastructure investment.
+
 🛒 [E-commerce Funnel & Retention Analysis](https://github.com/macarenahulsken/mercadolibre-funnel-retention)
 Mapped the conversion journey for 1,100+ users at Mercado Libre. Identified a critical 86% drop-off rate and proposed a data-driven optimization roadmap.
+
 📞 [ConnectaTel: User Behavior & Segmentation](https://github.com/macarenahulsken/connectatel-data-analysis)
 Developed a multi-tier segmentation model for 4,000+ customers. Used Winsorization to handle outliers and identified a major upselling opportunity for the "Basic" plan segment.
+
 💰 [International Marketing ROI Analysis](https://github.com/macarenahulsken/financial-roi-adventureworks)
 Evaluated performance across 6 international markets, identifying a $4.6M optimization opportunity through SQL-based financial modeling and ROI disparity analysis.
 
